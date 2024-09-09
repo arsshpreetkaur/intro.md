@@ -1,0 +1,86 @@
+/* Existing styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+.hero-image {
+    max-width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #5d8aa8;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+.choices {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button {
+    background-color: #5d8aa8;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #41728a;
+}
+
+/* Add this section for the gallery */
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.gallery-container img {
+    width: 30%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.gallery-container img:hover {
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    background-color: #5d8aa8;
+    color: white;
+    padding: 10px 0;
+    font-size: 14px;
+    border-radius: 5px;
+}
