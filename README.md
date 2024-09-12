@@ -9,6 +9,9 @@ Step 3: After pushing your repository, click on Settings to adjust configuration
 
 Step 4: Then go to the Collaborators section to invite our Group Members to collaborate on your project.
 
+![image](https://github.com/user-attachments/assets/bfda623b-986a-4f37-b8d3-e29cac8df96c)
+
+
 
 
 
