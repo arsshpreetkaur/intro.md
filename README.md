@@ -11,6 +11,18 @@ Step 4: Then go to the Collaborators section to invite our Group Members to coll
 
 ![image](https://github.com/user-attachments/assets/bfda623b-986a-4f37-b8d3-e29cac8df96c)
 
+Step 5: After pushing your repository, merge the contact.html changes by navigating to your branch and creating a pull request to integrate it into the main branch.
+
+![image](https://github.com/user-attachments/assets/96258505-d8c1-488a-ad20-dd5b425b433f)
+
+
+
+
+
+
+
+
+
 
 
 
