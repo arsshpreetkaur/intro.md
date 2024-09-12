@@ -5,6 +5,18 @@ Step 2: Creating a Git repository and publishing it to GitHub on a new branch.
 
 Step 3: After pushing your repository, click on Settings to adjust configurations like branch settings, GitHub Pages, and more.
 
+![image](https://github.com/user-attachments/assets/82c9e058-790d-4acb-aad8-905bd0784cac)
+
+Step 4: Then go to the Collaborators section to invite our Group Members to collaborate on your project.
+
+
+
+
+
+
+
+
+
 
 
 
